@@ -72,32 +72,3 @@ form.addEventListener("submit", function (e) {
   checkEmail(email)
   checkPassword(password, password2)
 })
-
-//username
-//   if (username.value === "") {
-//     showError(username, "Username is required")
-//   } else {
-//     showSuccess(username)
-//   }
-//email
-//   if (email.value === "") {
-//     showError(email, "Email is required")
-//   } else if (!isValidEmail(email.value)) {
-//     showError(email, "Email is not Valid")
-//   } else {
-//     showSuccess(email)
-//   }
-
-//password
-//   if (password.value === "") {
-//     showError(password, "Password is required")
-//   } else {
-//     showSuccess(password)
-//   }
-//password 2
-//   if (password2.value === "") {
-//     showError(password2, "Password 2 is required")
-//   } else {
-//     showSuccess(password2)
-//   }
-// })
