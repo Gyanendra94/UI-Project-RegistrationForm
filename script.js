@@ -1,5 +1,4 @@
 const form = document.getElementById("form")
-// const username = document.getElementById("username")
 
 //show input error message
 function showError(input, message) {
